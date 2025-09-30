@@ -7,7 +7,7 @@
 
 ## 📖 Project Overview
 This project presents a **comprehensive statistical analysis** of YouTube user distribution across **87 countries** worldwide.  
-The study applies descriptive statistics, confidence intervals, hypothesis testing, and outlier detection to uncover adoption trends and patterns that matter to **content creators and market analysts**.
+The study applies descriptive statistics, confidence intervals, hypothesis testing, and outlier detection to uncover adoption trends and patterns that matter to content creators and market analysts. **This is my academical work**.
 
 ---
 
