@@ -1,4 +1,4 @@
-# 📊 YouTube Users by Country – Statistical Analysis
+# YouTube Users by Country – Statistical Analysis
 
 ![YouTube](https://img.shields.io/badge/YouTube-Data_Analysis-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-R_Excel-007ACC?style=for-the-badge&logo=r&logoColor=white)
